@@ -1,0 +1,55 @@
+.section-tittle {
+  justify-content: center;
+}
+
+.flex-between,
+.d-flex .flex-center {
+  display: flex;
+  align-items: center;
+}
+
+.flex-between {
+  justify-content: space-between;
+}
+
+.flex-center {
+  justify-content: center;
+}
+
+.link2 {
+  color: #7e0000;
+  margin: 4rem;
+  text-decoration: none;
+}
+
+.h1-All {
+  color: #ffffff;
+  font-weight: 500;
+  text-align: center;
+  font-size: 34px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.two-cards {
+  flex-wrap: wrap;
+  gap: 3rem;
+  display: flex;
+  margin-inline: 30%;
+}
+
+.All-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-inline: 13%;
+  background-color: #ffffff;
+  margin: 2rem;
+}
+
+h5 {
+  color: #7e0000;
+  font-weight: 500;
+  font-size: 24px;
+}/*# sourceMappingURL=helpers.css.map */
